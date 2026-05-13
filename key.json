@@ -15,7 +15,7 @@
     ],
     "title": "",
     "updateMsg": "",
-    "updateRequired": false,
+    "updateRequired": true,
     "updateUrl": "http://t.me/Raynt999"
   },
   "BannedHWIDs": {
