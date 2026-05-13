@@ -1,22 +1,22 @@
 {
   "AppConfig": {
-    "bannerText": "Awaiting Authentication.",
+    "bannerText": "",
     "getKeyText": "🔑 Get Key ↗️",
-    "getKeyUrl": "https://t.me/dpmodsdialog",
-    "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
+    "getKeyUrl": "",
+    "imageUrl": "https://github.com/dimasriyanda806-sys/LOGINCCR/issues/1#issue-4437070767",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
-    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "maintenanceMsg": "",
     "statusBadge": "SECURE",
     "tags": [
       "👨‍💻 Engine by DPMods 👨‍💻",
       "🚀 DPMods V4 🚀",
       "🛠 Stable Build"
     ],
-    "title": "DPMods Core",
-    "updateMsg": "New DPMods version available! Please update.",
+    "title": "",
+    "updateMsg": "",
     "updateRequired": false,
-    "updateUrl": "https://t.me/dpmodsdialog"
+    "updateUrl": ""
   },
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
