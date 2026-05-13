@@ -3,7 +3,7 @@
     "bannerText": "",
     "getKeyText": "🔑 Get Key ↗️",
     "getKeyUrl": "",
-    "imageUrl": "https://github.com/dimasriyanda806-sys/LOGINCCR/issues/1#issue-4437070767",
+    "imageUrl": "",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
     "maintenanceMsg": "",
@@ -16,7 +16,7 @@
     "title": "",
     "updateMsg": "",
     "updateRequired": false,
-    "updateUrl": ""
+    "updateUrl": "http://t.me/Raynt999"
   },
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
